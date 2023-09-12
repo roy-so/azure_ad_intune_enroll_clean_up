@@ -1,0 +1,1 @@
+For cleanup the Intune Auto-Enrollment failure and manually enroll. 
